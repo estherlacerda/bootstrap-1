@@ -1,0 +1,6 @@
+/*meu estilo*/
+.navbar{
+    background-color: pink;
+    height: 100px;
+    border-bottom: 1px dashed black;
+}
